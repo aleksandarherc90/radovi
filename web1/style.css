@@ -1,0 +1,152 @@
+body{
+	background-color: white !important;
+}
+
+.jumbotron{
+	 background: url(plouzane-1758197_960_720.jpg);
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
+
+.navbar-brand{
+	color:#d47b00 !important;
+}
+.nav-link{
+	color: black !important;
+	border-bottom: 6px solid #f8f9fa!important
+}
+a:hover.nav-link{
+	border-bottom: 6px solid #f59842 !important;
+}
+.bg-light {
+    background-color: red;
+}
+.expirience{
+	color: white;
+	padding-top: 1em;
+	text-align: center;
+}
+.l1{
+	color: white;
+}
+.btn1{
+	background-color: #f59842;
+	border-color: transparent;
+	color: white;
+}
+.play-img{
+	    width: 17px;
+    padding-bottom: 2px;
+}
+.btn2{
+	background-color: transparent;
+	color: black;
+	border-color: white;
+}
+.l2{
+	color: white;
+}
+.ex{
+	color: #cccccc;
+	text-align: center;
+	font-size: 4rem;
+
+}
+.most{
+	color: #a3a3a3;
+	text-align: center;
+	font-size: 2rem;
+}
+.l3{
+	color: black;
+	text-align: left;
+}
+
+.bn3{
+	background-color: transparent;
+	color: #f59842;
+	border-radius: 100%;
+	border-color: #f59842;
+
+}
+
+.holliday{
+	margin-bottom: 2em;
+	 background: url(holiday-4138980_960_720.png);
+  background-repeat: no-repeat;
+  background-size: 100%;
+
+}
+.Summer{
+	color: #915e2d;
+	padding-top: 2em;
+	text-align: center;
+}
+.t1{
+	background-color: #d4d4d4;
+	opacity: 0.4;
+}
+.ht1{
+	color: black;
+}
+.easy{
+	color: #f59842;
+	text-align: center;
+	font-size: 5rem;
+}
+.orange{
+	background-color:  #f59842;
+	border-color: #d4d4d4;
+	border-radius: 15px;
+
+}
+.Service{
+	color: white;
+	padding-top: 1em;
+	text-align: center;
+}
+.destination{
+	border-bottom: 2px solid transparent !important;
+	color: white !important;
+	padding-top: 2em !important;
+}
+a:hover.destination{
+	border-bottom: 2px solid transparent !important;
+}
+.heading{
+	padding-top: 1em;
+}
+
+.footer {
+  position: initial;
+ background-color: #6c757d;
+ padding-bottom: 0px;
+}
+.cp{
+	color: #fd7e14;
+	padding-top: 1em;
+	padding-bottom: 0.4em;
+}
+.right{
+	text-align: center;
+	color: white;
+}
+
+.il{
+	list-style-type: none!important;
+}
+.des{
+	
+	color: white!important;
+
+}
+a:hover.des{
+	color:#c0c0c0!important;
+	background-color: transparent;
+}
+.op{
+	opacity: 0.9;
+	background-color: #c2b280!important;
+	border-radius: 8px;
+	border-color: transparent!important;
+}
