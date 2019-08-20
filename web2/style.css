@@ -1,0 +1,138 @@
+body{
+	background-color: #8dbaf0;
+}
+.nav{
+	background-color: #334357;
+}
+.cn{
+	text-align: center;
+	color: white;
+	padding-top: 0.3em;
+}
+.t-n{
+	color: white;
+	text-align: left;
+	padding-right: 14px;
+	padding-bottom: 1.5em;
+
+}
+a:hover.t-n{
+	text-decoration: none;
+	color:#cfcfcf;
+}
+.World{
+	
+	color: #334357;
+	padding-top: 0.3em;
+	text-align: center;
+	padding-bottom: 0.5em;
+}
+
+.conect{
+	padding-top: 3em;
+}
+.city{
+	border-radius: 12px;
+}
+.de{
+	padding-left: 10px;
+}
+
+
+
+}	
+.cloud{
+	background-image: linear-gradient(#73a9ff, #7b808a);
+}
+.why{
+	color: #334357;
+	text-align: center;
+	padding-top: 1em;
+	
+}
+.white{
+	color: white;
+	text-align: center;
+}
+.Explore{
+	background-image: linear-gradient(white, #334357);
+	border-radius: 14px;
+}
+.meet{
+	margin-left: 2em;
+}
+.tour{
+	padding-top: 0.6em;
+	color: #334357;
+	
+}
+
+.sea{
+
+	padding-top: 2px;
+	border-radius: 5px; 
+}
+.st{
+	color: #334357;
+	text-align: center;
+
+}
+.des{
+	text-align: center;
+	color: #334357;
+}
+
+.sea-img{
+	padding-top: 2px;
+	border-radius: 12px;
+}
+.t3{
+	color: #334357;
+	text-decoration: none;
+}
+a:hover.t3{
+	color:#cfcfcf;
+	text-decoration: none;
+}
+.btn1{
+	background-color: transparent;
+	border-color: #334357;
+	border-radius: 4px;
+	color: #334357;
+
+}
+.db1{
+	padding-top: 0.5em;
+}
+
+.blue{
+	margin-top: 1.5em;
+	padding-top: 2em;
+	background-color:#334357;
+	padding-bottom: 1.5em;
+}
+.ds{
+	color: #cfcfcf;
+	padding-right: 37px;
+	margin-top: 2em;
+}
+a:hover.ds{
+	text-decoration: none;
+	color:white;
+}
+
+.fb-img{
+	max-width: 2% !important;
+	padding-top: 20px;
+}
+
+.dark{
+	background-color: #111c2e;
+	position: initial;
+	padding: 0px;
+}
+.name{
+	padding-top: 0.5em;
+	padding-bottom: 0.5em;
+	color: white;
+}
